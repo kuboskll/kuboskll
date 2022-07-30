@@ -12,11 +12,7 @@
     <img src="https://komarev.com/ghpvc/?username=kubrakll">
 </a>
 
-<div align="center">
-    <img src="https://weheartit.com/entry/248188819"
-        width="250px" />
-    <br />
-  
+
 
   
   
