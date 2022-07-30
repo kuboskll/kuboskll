@@ -13,7 +13,7 @@
 </a>
 
 <div align="center">
-    <img src="https://i.pinimg.com/originals/c4/96/56/c49656042d417189f6d0f89af1fda4ca.gif"
+    <img src="https://weheartit.com/entry/248188819"
         width="250px" />
     <br />
   
