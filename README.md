@@ -20,7 +20,7 @@
 <br>
 </h5>
 
-![myfile](https://68.media.tumblr.com/c8771963d5c44402c541fa083386e8bc/tumblr_or7f5r6zei1tlmx1vo1_250.gif)
+![myfile](https://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
 <div align="center"> <img src="https://github.com/kuboskll/kuboskll/blob/output/github-contribution-grid-snake.svg" /></div>
 
 <a href="https://github.com/nslhnatasvr/github-profile-views-counter">
