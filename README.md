@@ -15,10 +15,6 @@
 <h1 hizalama="merkez">
   Welcome to my GitHub Page
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
-<h5>Back-End Developer 
-<br> I’m currently working on C# 
-<br>
-</h5>
 
 ![myfile](https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif)
 
