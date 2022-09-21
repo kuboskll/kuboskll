@@ -14,7 +14,7 @@
 
 <h1 hizalama="merkez">
   Welcome to my GitHub Page
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fsoftware-as-service&psig=AOvVaw0fD5J5D9tKoxyPgktyckVH&ust=1663836166921000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCLDpoPC-pfoCFQAAAAAdAAAAABAN" width="28"></h1>
 
 ![myfile](https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif)
 
