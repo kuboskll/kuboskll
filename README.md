@@ -3,7 +3,7 @@
    
  </div>
   
-  <h1 hizalama="merkez">
+  <h1 hizalama="merkez" align="center">
   Welcome to my GitHub Page
   
 
