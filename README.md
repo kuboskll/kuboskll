@@ -22,7 +22,7 @@
 
 
    <div id="header" align="center">
-  <img src="https://stickershop.line-scdn.net/stickershop/v1/product/1421377/LINEStorePC/main.png;compress=true" height="150"  width="150"/>
+  <img src="https://stickershop.line-scdn.net/stickershop/v1/product/1421377/LINEStorePC/main.png" height="150"  width="150"/>
 </div>
 
 <hr>
